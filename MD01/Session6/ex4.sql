@@ -1,3 +1,4 @@
+
 CREATE TABLE OrderInfo (
     id SERIAL PRIMARY KEY,
     customer_id INT,
